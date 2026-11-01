@@ -2,9 +2,14 @@
 
 **Public research edition — 1 November 2026**
 
-An open Arabic-language analytical research project studying how macro-level authority, meso-level institutions, and micro-level service delivery interact in Gaza. This is an **independently written preliminary analytical paper**, not a peer-reviewed publication, field survey, or endorsed governing plan.
+An open bilingual analytical research project studying the human and institutional foundations of sustainable public administration in Gaza, including macro-level authority, meso-level institutions, and micro-level service delivery. This is an **independently written preliminary analytical paper**, not a peer-reviewed publication, field survey, or endorsed governing plan.
+
+## Scope and interpretation
+
+**Institutional capacity is necessary but not sufficient for sustainable governance.** It does not confer political legitimacy, replace Palestinian self-determination, or overcome external restrictions on access, security, movement and resources. The research does not endorse Fatah, Hamas, any transitional committee, or another governing arrangement, nor does it presume equal responsibility among political actors. Historical analysis addresses specific administrative practices in different settings. The proposed operational framework is conditional on legal mandate, rights, public accountability and practical access.
 
 ## Read the project
+- [Foundational English paper](https://ibrahimhjkh-bot.github.io/gaza-foundational-institutional-capacity/english.html)
 - [Foundational Arabic paper](https://ibrahimhjkh-bot.github.io/gaza-foundational-institutional-capacity/)
 - [Expanded macro–meso–micro study](https://ibrahimhjkh-bot.github.io/gaza-foundational-institutional-capacity/governance.html)
 - [Proposed operational and measurement framework](https://ibrahimhjkh-bot.github.io/gaza-foundational-institutional-capacity/roadmap.html)
@@ -32,3 +37,6 @@ To submit corrections or evidence: [Open a GitHub issue](https://github.com/ibra
 Repository content is public. The exact GitHub Pages live deployment has not been independently verified from this session.
 
 © Attribution and reuse terms to be determined by the project owner; no open license is implied.
+
+## Revision log
+- 1 November 2026: bilingual editorial clarification of political scope and the necessary-but-not-sufficient role of institutional capacity; supporting pages updated consistently. Prior snapshot: `archive/pre-editorial-clarity-2026-11-01`.
